@@ -1,0 +1,17 @@
+
+{
+  "name": "jagannath-ai-backend",
+  "version": "1.0.0",
+  "description": "AI Jagannath Talking Robot Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "multer": "latest"
+  }
+}
